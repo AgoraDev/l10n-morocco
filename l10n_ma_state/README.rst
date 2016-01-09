@@ -44,6 +44,8 @@ Contributors
 ------------
 
 * Mohamed HABOU <m.habou@agoradeveloppement.com>
+* Salaheddine WADIF <salahwadif@gmail.com>
+* WSE <salaheddinewadif@gmail.com>
 
 Maintainer
 ----------
