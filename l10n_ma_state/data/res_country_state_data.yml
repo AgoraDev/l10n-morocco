@@ -115,3 +115,10 @@
     country_id: base.ma
     name: Dakhla-Oued Ed Dahab
 
+-
+  Creating a res.country.state record
+-
+  !record {model: res.country.state, id: res_country_state_casablanca}:
+    code: M12
+    country_id: base.ma
+    name: Casablanca
