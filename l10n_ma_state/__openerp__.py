@@ -26,7 +26,7 @@
     'summary': 'Populate Database with the 12 Moroccan States (Régions)',
     'version': '8.0.0.1.0',
     'category': 'Morocco Localization',
-    'author': "Agora Developpement, Odoo Community Association (OCA)",
+    'author': "Agora Developpement, Odoo Community Association (OCA), Youssef",
     'website': 'http://www.agoradeveloppement.com',
     'license': 'AGPL-3',
     'depends': [
