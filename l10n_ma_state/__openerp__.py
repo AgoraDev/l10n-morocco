@@ -23,7 +23,7 @@
 
 {
     'name': 'Morocco States (Régions)',
-    'summary': 'Populate Database with the 12 Moroccan States (Régions) Agora mouad',
+    'summary': 'Populate Database with the 12 Moroccan States (Régions) Agora mouadbanane',
     'version': '8.0.0.1.0',
     'category': 'Morocco Localization',
     'author': "Agora Developpement, Odoo Community Association (OCA)",
